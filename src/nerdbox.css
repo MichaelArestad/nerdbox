@@ -86,6 +86,7 @@
   -webkit-border-radius:4px;
   -moz-border-radius:4px;
   border-radius:4px;
+  text-align: left;
 }
 
 /* this helps with position and spacing when loading a single image into content */
